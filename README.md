@@ -1,6 +1,6 @@
 # Talkative_Timer
 
-A python program which speaks the current time.
+A python program which speaks out the current time.
 
 - It is a program created by importing various python packages like 'Playsound', 'Datetime' and 'Google-text-to-speech' packages. 
 - Datetime is used to import current date and time even the second to the program. So, from this we only used hour and minutes. 
