@@ -9,6 +9,6 @@ A python program which speaks out the current time.
 - Here Playsound package comes in function which allows an audio file to run inside the program without using any external audio player.
 
 To run this program you need latest Python version installed in your system, which you can get from its official website by clicking [HERE](https://www.python.org/downloads/release/python-386/). 
-After successfully installing python in your system just execute this program.
+After successfully installing python in your system just execute this program, i.e. run that .py extension file
 
 [ NOTE : Internet Connection Mandatory ]
